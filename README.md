@@ -8,10 +8,6 @@
 <img align="center" alt="Coding" height="400" width="700" src="https://i.pinimg.com/736x/c3/bb/f0/c3bbf0db7388085a4145bb61e483466f.jpg">
 <p> └⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿┈⇿⇿┈⇿⇿┈⇿⇿┈⇿┈⇿┘</p>
 <div align="right">
-  <p>
-    <a href="https://twitter.com/k0klysh8">Twitter</a> •
-    <a href="mailto:kodhsja@gmail.com">Email</a>
-  </p>
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;">
 </div>
 
